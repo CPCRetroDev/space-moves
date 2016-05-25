@@ -1,6 +1,6 @@
 # Space Moves / Toni Ramírez
 
-### Winner of #CPCRetroDev 2015 Game Creation Contest
+### Winner of [#CPCRetroDev 2015 Game Creation Contest](http://cpcretrodev.byterealms.com/contest-en/cpcretrodev-2015/)
 
 This is the source code for the game Space Moves, by Toni Ramirez. 
 
